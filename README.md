@@ -37,6 +37,9 @@
    ```bash
    git lfs clone https://github.com/YOUR_USERNAME/3DEndlessRunning.git
 
+
+演示视频：https://www.bilibili.com/video/BV18KZYYcEXh/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5cf8070c4b6d959a80676bc393e3c4f4
+
 ##📂 项目结构
 3DEndlessRunning/
 ├── Assets/
