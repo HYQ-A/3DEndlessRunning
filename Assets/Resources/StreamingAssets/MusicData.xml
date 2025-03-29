@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MusicData>
+	<musicValue>0.5</musicValue>
+	<soundValue>0.5</soundValue>
+	<musicIsOpen>ture</musicIsOpen>
+	<soundIsOpen>true</soundIsOpen>
+</MusicData>
